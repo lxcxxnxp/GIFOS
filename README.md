@@ -20,3 +20,5 @@ Recursos
 [FontAwsome]
 [Giphy API]
 [RecordRTC]
+
+https://github.com/lxcxxnxp/GIFOS
